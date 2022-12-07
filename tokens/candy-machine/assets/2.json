@@ -1,0 +1,15 @@
+{
+    "name": "Evolution of human #3",
+    "symbol": "EOFH",
+    "description": "We are what we came from",
+    "image": "2.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}

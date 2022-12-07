@@ -1,0 +1,15 @@
+{
+    "name": "Evolution of human",
+    "symbol": "EOFH",
+    "description": "Collection of 6 photos of the evolution of human",
+    "image": "collection.jpg",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  }

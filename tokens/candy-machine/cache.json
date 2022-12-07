@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "DNr34FbxRo4WN2WCU9ztwJpsGEYxr1BLLeAachqDvz9z",
+    "candyMachineCreator": "33JyybxxBUfqaoPQR2YrmLsA9kEpKf7YP3YyTMdQpGud",
+    "collectionMint": "7ZtLxdsNoAXFU5ZQ2CFbB1RvK7NysEqJbQGMgkxdbpKD"
+  },
+  "items": {
+    "-1": {
+      "name": "Evolution of human",
+      "image_hash": "0c1e64708e797ba7137557c30b408bfd5b7176b31a7708536a1c9a4846f38417",
+      "image_link": "https://arweave.net/8sQXMr0tSHTw3vIMEGlShu6kPCBjGrqmj2KS0lliqfc?ext=jpg",
+      "metadata_hash": "764e0c6337a67e475f72c4d25c4bd7f4b654baf1dca6089e8deb73217a46d954",
+      "metadata_link": "https://arweave.net/OU10t2eYPXIXyTKyi4sG26U4dGHI3gVQzKiwC7tKZ8o",
+      "onChain": true
+    },
+    "0": {
+      "name": "Evolution of human #1",
+      "image_hash": "e042840c4da190a1e576c9db15a014c604264744e4478f4669d504856f6a8227",
+      "image_link": "https://arweave.net/4MmbxOlsOxu4MlMm3bHihCQAX7hOjzr_HGKVprqK_eY?ext=jpg",
+      "metadata_hash": "a2cf54118a2f1b5d80954008f9b315415c7e7df4d2163b758251e2eba73611f9",
+      "metadata_link": "https://arweave.net/dstZtFesOBN5uVvRrl6fMsg8v1eJ7mlna5hdAg84xDQ",
+      "onChain": true
+    },
+    "1": {
+      "name": "Evolution of human #2",
+      "image_hash": "723073550756ad616db230f7b2080acb9b2c7b87b94c06f32a7d26f9572e523f",
+      "image_link": "https://arweave.net/Oj-nVrzv-NwtrlH2Uv7BqL6KfShyeGR2zPjc-XePkkc?ext=jpg",
+      "metadata_hash": "788582aacf10bf66ec0611b115af7ab06b7e7569710a5a783fcdf620b26ef278",
+      "metadata_link": "https://arweave.net/siwDMO2UFEnYrHa32D-OCaElr4KG1wbbRIXqDDoR96A",
+      "onChain": true
+    },
+    "2": {
+      "name": "Evolution of human #3",
+      "image_hash": "86af422bd6a48fb1bc448169b7b3c064e106299143b8d68e57a236855d3aeb92",
+      "image_link": "https://arweave.net/shtwgtuBKYVUTFoB5vVv00HAiH6u6xq2l1fanCCn7pg?ext=jpg",
+      "metadata_hash": "214f16f2032e879f7c29405391b617d112de5a2b3c8574478661e66cd12a0adb",
+      "metadata_link": "https://arweave.net/wVYmNms8ZUPnZL0hUcloc8Or9ERAMPumjiUMd7eOY7Q",
+      "onChain": true
+    },
+    "3": {
+      "name": "Evolution of human #4",
+      "image_hash": "9c43b52a112ad6d4e7f23d74e98cf9aecddf4839d30fade942f8cbaee88baba2",
+      "image_link": "https://arweave.net/dvc8s0AA--79z0XHMLpxMOD-_jbVFCeTTxhNbdHOPEk?ext=jpg",
+      "metadata_hash": "d623407e2b512df33c918543662fc0bc56f7deceab1451c25c90c696e76d8569",
+      "metadata_link": "https://arweave.net/FHiv7-gFbsFPEG8uOzyjxrvq9swMFTyJj0uac0fc8-I",
+      "onChain": true
+    },
+    "4": {
+      "name": "Evolution of human #5",
+      "image_hash": "53ee3df4229b238783c5efdc98a192d9ab69a8133db86746d038c4ec0ca7a694",
+      "image_link": "https://arweave.net/kRIcVrtODUIv68pEbZi_n8U3Z_FfPmZtfjEUQv7hD98?ext=jpg",
+      "metadata_hash": "3521dff0dbe2dfc3095492d2959a1377388685ed370db306e0f9e260829f08fe",
+      "metadata_link": "https://arweave.net/XkyMBgtKMKWSjnoAD8uuOk6AZJCpomEsn9YOonlX6r0",
+      "onChain": true
+    },
+    "5": {
+      "name": "Evolution of human #6",
+      "image_hash": "6c89d8346b62f7f0f4f12e8b63850ac51e817d1a4a57c3dc10832e1ea7b7cd15",
+      "image_link": "https://arweave.net/LfVG6LYZ_6qQXR_7KvlFtI2Aw8dfO2PBOFld8nN63nc?ext=jpg",
+      "metadata_hash": "a4a820fd54341d6612aa3c8c9ae593e630196684c1ffa031def399ca554296b6",
+      "metadata_link": "https://arweave.net/Gmg3wyCkvM_BBzCOF1nlYTUhCUceabE3sBxK3fn3Nis",
+      "onChain": true
+    }
+  }
+}

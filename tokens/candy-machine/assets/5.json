@@ -1,0 +1,15 @@
+{
+    "name": "Evolution of human #6",
+    "symbol": "EOFH",
+    "description": "We are what we came from",
+    "image": "5.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
